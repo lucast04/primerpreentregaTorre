@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Brook",
+        "tipo": "Burger",
+        "descripcion": "doble con huevo",
+        "precio": 2100,
+        "stock": 30,
+        "img": "brook(1).jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Bs As Premium",
+        "tipo": "Burger",
+        "descripcion": "Simple con tomate, lechuga y huevo",
+        "precio": 1800,
+        "stock": 20,
+        "img": "bsaspr(1).jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 2,
+        "nombre": "Combo Pollo",
+        "tipo": "Tapeo",
+        "descripcion": "Combo pollo frito con papas",
+        "precio": 1500,
+        "stock": 15,
+        "img": "combopollo.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Cuarto Doble",
+        "tipo": "Burger",
+        "descripcion": "Homenaje doble cuarto de libra",
+        "precio": 1700,
+        "stock": 30,
+        "img": "doblecuarto(1).jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 1,
+        "nombre": "Mediterraneo",
+        "tipo": "Burger",
+        "descripcion": "Simple con alioli,tomate, rucula y panceta",
+        "precio": 1550,
+        "stock": 7,
+        "img": "mediterraneo(1).jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 3,
+        "nombre": "Mila a caballo",
+        "tipo": "Milanesa",
+        "descripcion": "Mila con dos huevos y papas",
+        "precio": 2000,
+        "stock": 20,
+        "img": "milacaballo.JPG"
+    },
+    {
+        "id": 7,
+        "idCategoria": 3,
+        "nombre": "Mila deluxe",
+        "tipo": "Milanesa",
+        "descripcion": "Mila con cheddar, panceta y verdeo",
+        "precio": 2300,
+        "stock": 10,
+        "img": "miladeluxe.JPG"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Milanesa",
+        "tipo": "Milanesa",
+        "descripcion": "Mila sola con papas",
+        "precio": 1900,
+        "stock": 30,
+        "img": "milasola.JPG"
+    },
+    {
+        "id": 9,
+        "idCategoria": 2,
+        "nombre": "Papas",
+        "tipo": "Tapeo",
+        "descripcion": "Porcion de papas",
+        "precio": 850,
+        "stock": 21,
+        "img": "papas.JPG"
+    },
+    {
+        "id": 10,
+        "idCategoria": 2,
+        "nombre": "Picada",
+        "tipo": "Tapeo",
+        "descripcion": "Bastones de muzza, Aros de cebolla, pollo y papas",
+        "precio": 1850,
+        "stock": 25,
+        "img": "picada.JPG"
+    }
+]

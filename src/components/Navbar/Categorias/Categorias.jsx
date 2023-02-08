@@ -1,19 +1,17 @@
-import React from 'react';
+import { Link } from "react-router-dom";
 
 const Categorias = () => {
     return (
-        <>
-            <li className="nav-item dropdown">
+        <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            <button className='btn btn-dark'>OPCIONES</button>
+            <button className="btn btn-dark">Categorias</button> 
           </a>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">BURGERS</a></li>
-            <li><a className="dropdown-item" href="#">BEBIDAS</a></li>
-            <li><a className="dropdown-item" href="#">TAPEOS</a></li>
+            <li><Link className="dropdown-item" to={"/category/1"}>Burger</Link></li>
+            <li><Link className="dropdown-item" to={"/category/2"}>Tapeos</Link></li>
+            <li><Link className="dropdown-item" to={"/category/3"}>Milanesas</Link></li>
           </ul>
         </li>
-        </>
     );
 }
 

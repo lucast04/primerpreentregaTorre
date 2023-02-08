@@ -1,4 +1,4 @@
-import Carwidget from "../CarWidget/CarWidget";
+import Carwidget from "../CartWidget/CartWidget";
 import Categorias from "./Categorias/Categorias";
 import Secciones from "../Secciones/Secciones";
 
